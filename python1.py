@@ -1,0 +1,8 @@
+print("Base-types and base names of DNA\n")
+print("---------------------------\n")
+print("Base type|Base Name\n")
+print("---------------------------\n")
+print("A\t|\tAdenine\n")
+print("T\t|\tThymine\n")
+print("G\t|\tGuanine\n")
+print("C\t|\tCytosine\n")
